@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "399efd7069be7c10",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c84a4d256856b46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b7ace7622cab1f4",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-todoist",
+              "state": {}
+            }
+          },
+          {
+            "id": "01a059d9bd54778f",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bc9c024bd181e572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💾　Resource/Thinking/< Dacon > 고객 대출등급 분류 해커톤 생각노트 01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cbf578371b0018c",
+    "type": "split",
+    "children": [
+      {
+        "id": "af2467959ef5518b",
+        "type": "tabs",
+        "dimension": 65.11363636363636,
+        "children": [
+          {
+            "id": "fbd09aadb79c21fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "00adfd15821aaeb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd0c37ec522e55a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1cebd110632b5ef4",
+        "type": "tabs",
+        "dimension": 34.88636363636364,
+        "children": [
+          {
+            "id": "c805afacaa0dc984",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "💾　Resource/Thinking/< Dacon > 고객 대출등급 분류 해커톤 생각노트 01.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "right": {
+    "id": "e5f41c16067e8f97",
+    "type": "split",
+    "children": [
+      {
+        "id": "67033a082b81b2fc",
+        "type": "tabs",
+        "dimension": 39.43181818181819,
+        "children": [
+          {
+            "id": "f182fcede5f8a7f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "💾　Resource/Thinking/< Dacon > 고객 대출등급 분류 해커톤 생각노트 01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1ff0aed7aa54092",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "💾　Resource/Thinking/< Dacon > 고객 대출등급 분류 해커톤 생각노트 01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9787cb0e26ea292f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "927e4ccbf19d4b01",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "4a1433c2bb40e8ca",
+        "type": "tabs",
+        "dimension": 60.56818181818182,
+        "children": [
+          {
+            "id": "045d376903c5af1d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "obsidian-custom-frames:Open Todoist": false,
+      "switcher:퀵 스위처 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "graph:그래프 뷰 열기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "bc9c024bd181e572",
+  "lastOpenFiles": [
+    "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md",
+    "💾　Resource/Data Science Note/< Dacon > 고객 대출등급 분류  해커톤 - 01.md",
+    "💾　Resource/Thinking/< Dacon > 고객 대출등급 분류 해커톤 생각노트 01.md",
+    "💾　Resource/Knowledge/< Dacon > 고객 대출등급 분류 해커톤 도메인 지식 정리.md",
+    "🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md",
+    "🎨　Area/Blog/< Blog Rule >.md",
+    "Template/Project Template.md",
+    "Template/Data Science Note Template.md",
+    "Template/Blog Note Template.md",
+    "Template/DS Thinking Note.md",
+    "💾　Resource/Thinking",
+    "💾　Resource/Knowledge/< Signate > 제2회 금융 데이터 활용 챌린지 도메인 지식 정리.md",
+    "💾　Resource/Data Science Note/< Signate > 제2회 금융 데이터 활용 챌린지-01.md",
+    "Template/Daily Template.md",
+    "🎨　Area/Blog",
+    "🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md",
+    "🎨　Area/NuNa.md",
+    "금융 관련 지식 정리.md",
+    "💾　Resource/Knowledge",
+    "💾　Resource/Data Science Note",
+    "🤩　TODO NOTE/무제 폴더",
+    "무제 파일 1.canvas",
+    "🤩　TODO NOTE/2024-01-14.md",
+    "무제 파일.canvas",
+    "🤩　TODO NOTE/2024-01-15.md",
+    "🎨　Area/Univ.md",
+    "🤩 TODO NOTE.md",
+    "🤩　TODO NOTE",
+    "2024-01-14.md",
+    "Template 주요 함수.md",
+    "test.md",
+    "🎨　Area/Paper.md",
+    "🎨　Area/English.md",
+    "🐳　Project/< 논문 >.md",
+    "Template",
+    "🎲　Archive",
+    "💾　Resource",
+    "🎨　Area"
+  ]
+}

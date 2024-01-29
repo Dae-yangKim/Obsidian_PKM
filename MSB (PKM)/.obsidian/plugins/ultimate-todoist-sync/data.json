@@ -1,0 +1,1560 @@
+{
+  "initialized": true,
+  "apiInitialized": true,
+  "defaultProjectName": "Inbox",
+  "automaticSynchronizationInterval": 300,
+  "todoistTasksData": {
+    "projects": [
+      {
+        "id": "2302964268",
+        "parentId": null,
+        "order": 0,
+        "color": "grey",
+        "name": "Inbox",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": true,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2302964268",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2326784305",
+        "parentId": null,
+        "order": 2,
+        "color": "charcoal",
+        "name": "[프로젝트02] 고객 대출등급 분류 해커톤",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2326784305",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2326784319",
+        "parentId": null,
+        "order": 3,
+        "color": "charcoal",
+        "name": "[프로젝트03] 제2회 금융 데이터 활용 챌린지",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2326784319",
+        "viewStyle": "list"
+      }
+    ],
+    "tasks": [
+      {
+        "id": "7592634792",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326784305",
+        "sectionId": null,
+        "parentId": null,
+        "order": 2,
+        "content": "[프로젝트02] 데이터 파악   ✅ 2024-01-21",
+        "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T07:06:39.855181Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7592634792",
+        "duration": null,
+        "path": "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md"
+      },
+      {
+        "id": "7592635191",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326784305",
+        "sectionId": null,
+        "parentId": null,
+        "order": 3,
+        "content": "[프로젝트02] Excel 정리   ✅ 2024-01-21",
+        "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T07:07:04.075364Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7592635191",
+        "duration": null,
+        "path": "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md"
+      },
+      {
+        "id": "7592652075",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326784319",
+        "sectionId": null,
+        "parentId": null,
+        "order": 1,
+        "content": "[프로젝트03] 프로젝트 일정 관리하기   ✅ 2024-01-21",
+        "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T07:22:35.782130Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7592652075",
+        "duration": null,
+        "path": "🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md"
+      },
+      {
+        "id": "7592652990",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326784305",
+        "sectionId": null,
+        "parentId": null,
+        "order": 4,
+        "content": "[프로젝트02] 도메인 지식 정리",
+        "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T07:23:15.303847Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7592652990",
+        "duration": null,
+        "path": "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md"
+      },
+      {
+        "id": "7592653222",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326784319",
+        "sectionId": null,
+        "parentId": null,
+        "order": 4,
+        "content": "[프로젝트03] 도메인 지식 정리",
+        "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T07:23:28.255849Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7592653222",
+        "duration": null,
+        "path": "🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md"
+      },
+      {
+        "id": "7592652470",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326784319",
+        "sectionId": null,
+        "parentId": null,
+        "order": 3,
+        "content": "[프로젝트03] Excel 정리",
+        "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T07:22:52.156943Z",
+        "due": {
+          "date": "2024-01-21",
+          "timezone": "Asia/Seoul",
+          "string": "08시00분 1월22일",
+          "lang": "ko",
+          "isRecurring": false,
+          "datetime": "2024-01-21T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7592652470",
+        "duration": null,
+        "path": "🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md"
+      },
+      {
+        "id": "7592652238",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326784319",
+        "sectionId": null,
+        "parentId": null,
+        "order": 2,
+        "content": "[프로젝트03] 데이터 파악",
+        "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T07:22:43.222633Z",
+        "due": {
+          "date": "2024-01-21",
+          "timezone": "Asia/Seoul",
+          "string": "08시00분 1월22일",
+          "lang": "ko",
+          "isRecurring": false,
+          "datetime": "2024-01-21T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7592652238",
+        "duration": null,
+        "path": "🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md"
+      },
+      {
+        "id": "7592608243",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326783193",
+        "sectionId": null,
+        "parentId": null,
+        "order": 3,
+        "content": "[프로젝트01] EDA",
+        "description": "[🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T06:37:27.128153Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7592608243",
+        "duration": null,
+        "path": "🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md"
+      },
+      {
+        "id": "7592607721",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326783193",
+        "sectionId": null,
+        "parentId": null,
+        "order": 2,
+        "content": "[프로젝트01] 데이터 모으기",
+        "description": "[🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T06:36:48.678556Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7592607721",
+        "duration": null,
+        "path": "🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md"
+      },
+      {
+        "id": "7592607280",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326783193",
+        "sectionId": null,
+        "parentId": null,
+        "order": 1,
+        "content": "[프로젝트01]문제 자료 모으기 (문제 정의)",
+        "description": "[🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T06:36:13.085384Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7592607280",
+        "duration": null,
+        "path": "🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md"
+      },
+      {
+        "id": "7592608560",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326783193",
+        "sectionId": null,
+        "parentId": null,
+        "order": 4,
+        "content": "[프로젝트01] 모델링",
+        "description": "[🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T06:37:51.047423Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7592608560",
+        "duration": null,
+        "path": "🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md"
+      },
+      {
+        "id": "7592608857",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326783193",
+        "sectionId": null,
+        "parentId": null,
+        "order": 5,
+        "content": "[프로젝트01] 결론 및 문서 작성",
+        "description": "[🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T06:38:05.463671Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7592608857",
+        "duration": null,
+        "path": "🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md"
+      },
+      {
+        "id": "7592634529",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326784305",
+        "sectionId": null,
+        "parentId": null,
+        "order": 1,
+        "content": "[프로젝트02] 프로젝트 일정 관리하기   ✅ 2024-01-19",
+        "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T07:06:19.069479Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7592634529",
+        "duration": null,
+        "path": "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md"
+      }
+    ],
+    "events": [
+      {
+        "event_date": "2024-01-13T07:40:34.000000Z",
+        "event_type": "deleted",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4998",
+          "name": "",
+          "note_count": 0
+        },
+        "extra_data_id": 22696279049,
+        "id": 22609984051,
+        "initiator_id": null,
+        "object_id": "2326741133",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-01-13T07:39:56.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4998",
+          "name": "내가 김대양이다.",
+          "note_count": 0
+        },
+        "extra_data_id": 22696276196,
+        "id": 22609981200,
+        "initiator_id": null,
+        "object_id": "2326741133",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-01-14T06:36:33.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] 문제 자료 모으기 (문제 정의)",
+          "last_content": "[프로젝트01]문제 자료 모으기 (문제 정의)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703602848,
+        "id": 22617307825,
+        "initiator_id": null,
+        "object_id": "7592607280",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-01-14T06:36:30.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01]문제 자료 모으기 (문제 정의)",
+          "last_content": "문제 자료 모으기 (문제 정의)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703602656,
+        "id": 22617307633,
+        "initiator_id": null,
+        "object_id": "7592607280",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-01-14T06:39:00.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4999",
+          "last_name": "[프로젝트01] 미래사회 빅데이터 분ㅓㄱ",
+          "name": "[프로젝트01] 미래사회 빅데이터 분석",
+          "note_count": 0
+        },
+        "extra_data_id": 22703611839,
+        "id": 22617316816,
+        "initiator_id": null,
+        "object_id": "2326783193",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-01-14T06:38:55.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4999",
+          "name": "[프로젝트01] 미래사회 빅데이터 분ㅓㄱ",
+          "note_count": 0
+        },
+        "extra_data_id": 22703611528,
+        "id": 22617316505,
+        "initiator_id": null,
+        "object_id": "2326783193",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-01-14T07:07:43.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 데이터 파악",
+          "description": "[Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[Project/< Dacon > 고객 대출등급.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703712725,
+        "id": 22617417702,
+        "initiator_id": null,
+        "object_id": "7592634792",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-01-14T07:07:43.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] Excel 정리",
+          "description": "[Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[Project/< Dacon > 고객 대출등급.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703712710,
+        "id": 22617417687,
+        "initiator_id": null,
+        "object_id": "7592635191",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-01-14T07:07:43.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 프로젝트 일정 관리하기",
+          "description": "[Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[Project/< Dacon > 고객 대출등급.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703712697,
+        "id": 22617417675,
+        "initiator_id": null,
+        "object_id": "7592634529",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-01-14T07:07:28.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 프로젝트 일정 관리하기",
+          "description": "[Project/< Dacon > 고객 대출등급.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89.md)",
+          "last_description": "[Project/< Dacon > 고객.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703711819,
+        "id": 22617416797,
+        "initiator_id": null,
+        "object_id": "7592634529",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-01-14T07:07:28.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 데이터 파악",
+          "description": "[Project/< Dacon > 고객 대출등급.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89.md)",
+          "last_description": "[Project/< Dacon > 고객.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703711820,
+        "id": 22617416796,
+        "initiator_id": null,
+        "object_id": "7592634792",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-01-14T07:07:28.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] Excel 정리",
+          "description": "[Project/< Dacon > 고객 대출등급.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89.md)",
+          "last_description": "[Project/< Dacon > 고객.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703711817,
+        "id": 22617416794,
+        "initiator_id": null,
+        "object_id": "7592635191",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-01-14T07:07:22.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] Excel 정리",
+          "description": "[Project/< Dacon > 고객.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D.md)",
+          "last_description": "[Project/< Dacon >.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703711531,
+        "id": 22617416509,
+        "initiator_id": null,
+        "object_id": "7592635191",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-01-14T07:07:21.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 프로젝트 일정 관리하기",
+          "description": "[Project/< Dacon > 고객.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D.md)",
+          "last_description": "[Project/< Dacon >.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703711527,
+        "id": 22617416504,
+        "initiator_id": null,
+        "object_id": "7592634529",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-01-14T07:07:21.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 데이터 파악",
+          "description": "[Project/< Dacon > 고객.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D.md)",
+          "last_description": "[Project/< Dacon >.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703711505,
+        "id": 22617416482,
+        "initiator_id": null,
+        "object_id": "7592634792",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-01-14T07:24:03.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4999",
+          "name": "[프로젝트02] 고객 대출등급 분류 해커톥",
+          "note_count": 0
+        },
+        "extra_data_id": 22703773758,
+        "id": 22617478735,
+        "initiator_id": null,
+        "object_id": "2326784305",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-01-14T07:27:40.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] 데이터 파익",
+          "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "last_description": "[Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703786654,
+        "id": 22617491632,
+        "initiator_id": null,
+        "object_id": "7592652238",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-01-14T07:27:40.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] Excel 정리",
+          "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "last_description": "[Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703786621,
+        "id": 22617491598,
+        "initiator_id": null,
+        "object_id": "7592652470",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-01-14T07:27:40.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] 도메인 지식 정리",
+          "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "last_description": "[Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703786610,
+        "id": 22617491587,
+        "initiator_id": null,
+        "object_id": "7592653222",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-01-14T07:27:39.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 도메인 지식 정리",
+          "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703786590,
+        "id": 22617491567,
+        "initiator_id": null,
+        "object_id": "7592652990",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-01-14T07:27:39.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] 프로젝트 일정 관리하기",
+          "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "last_description": "[Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703786583,
+        "id": 22617491559,
+        "initiator_id": null,
+        "object_id": "7592652075",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-01-14T07:27:39.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] Excel 정리",
+          "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703786572,
+        "id": 22617491549,
+        "initiator_id": null,
+        "object_id": "7592635191",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-01-14T07:27:39.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 프로젝트 일정 관리하기",
+          "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703786566,
+        "id": 22617491544,
+        "initiator_id": null,
+        "object_id": "7592634529",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-01-14T07:27:39.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 데이터 파악",
+          "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703786559,
+        "id": 22617491536,
+        "initiator_id": null,
+        "object_id": "7592634792",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-01-14T07:27:39.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] EDA",
+          "description": "[🐳　Project/<공모전> 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%EA%B3%B5%EB%AA%A8%EC%A0%84%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[Project/<공모전> 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%EA%B3%B5%EB%AA%A8%EC%A0%84%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703786545,
+        "id": 22617491522,
+        "initiator_id": null,
+        "object_id": "7592608243",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-14T07:27:39.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] 결론 및 문서 작성",
+          "description": "[🐳　Project/<공모전> 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%EA%B3%B5%EB%AA%A8%EC%A0%84%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[Project/<공모전> 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%EA%B3%B5%EB%AA%A8%EC%A0%84%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703786534,
+        "id": 22617491512,
+        "initiator_id": null,
+        "object_id": "7592608857",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-14T07:27:39.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] 모델링",
+          "description": "[🐳　Project/<공모전> 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%EA%B3%B5%EB%AA%A8%EC%A0%84%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[Project/<공모전> 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%EA%B3%B5%EB%AA%A8%EC%A0%84%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703786533,
+        "id": 22617491510,
+        "initiator_id": null,
+        "object_id": "7592608560",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-14T07:27:38.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] 데이터 모으기",
+          "description": "[🐳　Project/<공모전> 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%EA%B3%B5%EB%AA%A8%EC%A0%84%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[Project/<공모전> 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%EA%B3%B5%EB%AA%A8%EC%A0%84%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703786524,
+        "id": 22617491501,
+        "initiator_id": null,
+        "object_id": "7592607721",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-14T07:27:38.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] 문제 자료 모으기 (문제 정의)",
+          "description": "[🐳　Project/<공모전> 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%EA%B3%B5%EB%AA%A8%EC%A0%84%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[Project/<공모전> 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=Project/%3C%EA%B3%B5%EB%AA%A8%EC%A0%84%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703786474,
+        "id": 22617491451,
+        "initiator_id": null,
+        "object_id": "7592607280",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-14T07:24:18.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4999",
+          "name": "[프로젝트03] 제2회 금융 데이터 활용 챌린지",
+          "note_count": 0
+        },
+        "extra_data_id": 22703774860,
+        "id": 22617479837,
+        "initiator_id": null,
+        "object_id": "2326784319",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-01-14T07:24:10.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4999",
+          "last_name": "[프로젝트02] 고객 대출등급 분류 해커톥",
+          "name": "[프로젝트02] 고객 대출등급 분류 해커톤",
+          "note_count": 0
+        },
+        "extra_data_id": 22703774200,
+        "id": 22617479177,
+        "initiator_id": null,
+        "object_id": "2326784305",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-01-14T07:29:16.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01]문제 자료 모으기 (문제 정의)",
+          "last_content": "[프로젝트01] 문제 자료 모으기 (문제 정의)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703792608,
+        "id": 22617497585,
+        "initiator_id": null,
+        "object_id": "7592607280",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-14T07:45:52.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] 모델링",
+          "description": "[🐳　Project/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[🐳　Project/<공모전> 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%EA%B3%B5%EB%AA%A8%EC%A0%84%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703856771,
+        "id": 22617561749,
+        "initiator_id": null,
+        "object_id": "7592608560",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-14T07:45:52.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] EDA",
+          "description": "[🐳　Project/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[🐳　Project/<공모전> 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%EA%B3%B5%EB%AA%A8%EC%A0%84%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703856772,
+        "id": 22617561748,
+        "initiator_id": null,
+        "object_id": "7592608243",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-14T07:45:52.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] 결론 및 문서 작성",
+          "description": "[🐳　Project/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[🐳　Project/<공모전> 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%EA%B3%B5%EB%AA%A8%EC%A0%84%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703856764,
+        "id": 22617561741,
+        "initiator_id": null,
+        "object_id": "7592608857",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-14T07:45:51.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] 데이터 모으기",
+          "description": "[🐳　Project/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[🐳　Project/<공모전> 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%EA%B3%B5%EB%AA%A8%EC%A0%84%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703856731,
+        "id": 22617561708,
+        "initiator_id": null,
+        "object_id": "7592607721",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-14T07:45:51.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01]문제 자료 모으기 (문제 정의)",
+          "description": "[🐳　Project/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[🐳　Project/<공모전> 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%EA%B3%B5%EB%AA%A8%EC%A0%84%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22703856729,
+        "id": 22617561706,
+        "initiator_id": null,
+        "object_id": "7592607280",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-14T08:31:33.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4999",
+          "content": "집 사기   ✅ 2024-01-14",
+          "note_count": 0
+        },
+        "extra_data_id": 22704057867,
+        "id": 22617762843,
+        "initiator_id": null,
+        "object_id": "7592728341",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-01-14T08:30:51.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "집 사기",
+          "note_count": 0
+        },
+        "extra_data_id": 22704054340,
+        "id": 22617759318,
+        "initiator_id": null,
+        "object_id": "7592728341",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-01-14T08:33:03.000000Z",
+        "event_type": "uncompleted",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "집 사기   ✅ 2024-01-14",
+          "note_count": 0
+        },
+        "extra_data_id": 22704064732,
+        "id": 22617769709,
+        "initiator_id": null,
+        "object_id": "7592728341",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-01-14T08:31:30.000000Z",
+        "event_type": "uncompleted",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "집 사기   ✅ 2024-01-14",
+          "note_count": 0
+        },
+        "extra_data_id": 22704057489,
+        "id": 22617762467,
+        "initiator_id": null,
+        "object_id": "7592728341",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-01-14T08:31:29.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "집 사기   ✅ 2024-01-14",
+          "last_content": "집 사기",
+          "note_count": 0
+        },
+        "extra_data_id": 22704057340,
+        "id": 22617762316,
+        "initiator_id": null,
+        "object_id": "7592728341",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-01-14T08:39:09.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4999",
+          "content": "집 사기   ✅ 2024-01-14",
+          "note_count": 0
+        },
+        "extra_data_id": 22704090711,
+        "id": 22617795688,
+        "initiator_id": null,
+        "object_id": "7592728341",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-01-19T14:24:15.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 프로젝트 일정 관리하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22769605490,
+        "id": 22683310085,
+        "initiator_id": null,
+        "object_id": "7592634529",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-01-19T14:23:39.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] 데이터 모으기",
+          "description": "[🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22769599171,
+        "id": 22683303766,
+        "initiator_id": null,
+        "object_id": "7592607721",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-19T14:23:39.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] EDA",
+          "description": "[🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22769598249,
+        "id": 22683302844,
+        "initiator_id": null,
+        "object_id": "7592608243",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-19T14:23:39.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] 결론 및 문서 작성",
+          "description": "[🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22769598222,
+        "id": 22683302818,
+        "initiator_id": null,
+        "object_id": "7592608857",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-19T14:23:39.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01]문제 자료 모으기 (문제 정의)",
+          "description": "[🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22769598178,
+        "id": 22683302773,
+        "initiator_id": null,
+        "object_id": "7592607280",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-19T14:23:39.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] 모델링",
+          "description": "[🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22769598176,
+        "id": 22683302767,
+        "initiator_id": null,
+        "object_id": "7592608560",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-19T14:23:27.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] EDA",
+          "description": "[< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[🐳　Project/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22769596014,
+        "id": 22683300608,
+        "initiator_id": null,
+        "object_id": "7592608243",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-19T14:23:26.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] 결론 및 문서 작성",
+          "description": "[< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[🐳　Project/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22769595928,
+        "id": 22683300522,
+        "initiator_id": null,
+        "object_id": "7592608857",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-19T14:23:26.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] 데이터 모으기",
+          "description": "[< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[🐳　Project/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22769595925,
+        "id": 22683300520,
+        "initiator_id": null,
+        "object_id": "7592607721",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-19T14:23:26.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01] 모델링",
+          "description": "[< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[🐳　Project/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22769595822,
+        "id": 22683300419,
+        "initiator_id": null,
+        "object_id": "7592608560",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-19T14:23:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트01]문제 자료 모으기 (문제 정의)",
+          "description": "[< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "last_description": "[🐳　Project/< 공모전 > 미래사회 빅데이터 분석.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%3E%20%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22769595813,
+        "id": 22683300407,
+        "initiator_id": null,
+        "object_id": "7592607280",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326783193"
+      },
+      {
+        "event_date": "2024-01-19T14:25:31.000000Z",
+        "event_type": "deleted",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/5062",
+          "name": "",
+          "note_count": 0
+        },
+        "extra_data_id": 22769620333,
+        "id": 22683324926,
+        "initiator_id": null,
+        "object_id": "2326783193",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-01-19T14:26:12.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 프로젝트 일정 관리하기   ✅ 2024-01-19",
+          "last_content": "[프로젝트02] 프로젝트 일정 관리하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22769627927,
+        "id": 22683332521,
+        "initiator_id": null,
+        "object_id": "7592634529",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-01-20T23:14:45.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] Excel 정리",
+          "due_date": "2024-01-20T23:00:00.000000Z",
+          "last_due_date": "2024-01-21T14:59:59.000000Z",
+          "note_count": 0
+        },
+        "extra_data_id": 22782362942,
+        "id": 22696067492,
+        "initiator_id": null,
+        "object_id": "7592652470",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-01-20T23:14:44.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] 데이터 파악",
+          "due_date": "2024-01-20T23:00:00.000000Z",
+          "last_due_date": "2024-01-21T14:59:59.000000Z",
+          "note_count": 0
+        },
+        "extra_data_id": 22782362845,
+        "id": 22696067395,
+        "initiator_id": null,
+        "object_id": "7592652238",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-01-20T23:14:00.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/5069",
+          "content": "[프로젝트03] Excel 정리",
+          "due_date": "2024-01-21T14:59:59.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22782359407,
+        "id": 22696063957,
+        "initiator_id": null,
+        "object_id": "7592652470",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-01-20T23:13:49.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/5069",
+          "content": "[프로젝트03] 데이터 파악",
+          "due_date": "2024-01-21T14:59:59.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22782358661,
+        "id": 22696063211,
+        "initiator_id": null,
+        "object_id": "7592652238",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-01-20T23:13:27.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] 데이터 파악",
+          "last_content": "[프로젝트03] 데이터 파익",
+          "note_count": 0
+        },
+        "extra_data_id": 22782356802,
+        "id": 22696061352,
+        "initiator_id": null,
+        "object_id": "7592652238",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-01-20T23:09:46.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] 프로젝트 일정 관리하기   ✅ 2024-01-21",
+          "last_content": "[프로젝트03] 프로젝트 일정 관리하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22782340386,
+        "id": 22696044936,
+        "initiator_id": null,
+        "object_id": "7592652075",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-01-20T23:09:42.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 데이터 파악   ✅ 2024-01-21",
+          "last_content": "[프로젝트02] 데이터 파악   ✅ 2024-01-20",
+          "note_count": 0
+        },
+        "extra_data_id": 22782340105,
+        "id": 22696044655,
+        "initiator_id": null,
+        "object_id": "7592634792",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-01-20T23:05:21.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] Excel 정리   ✅ 2024-01-21",
+          "last_content": "[프로젝트02] Excel 정리",
+          "note_count": 0
+        },
+        "extra_data_id": 22782319048,
+        "id": 22696023598,
+        "initiator_id": null,
+        "object_id": "7592635191",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-01-21T14:08:04.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/5069",
+          "content": "[프로젝트03] Excel 정리",
+          "due_date": "2024-01-21T23:00:00.000000Z",
+          "last_due_date": "2024-01-20T23:00:00.000000Z",
+          "note_count": 0
+        },
+        "extra_data_id": 22786259161,
+        "id": 22699963705,
+        "initiator_id": null,
+        "object_id": "7592652470",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-01-21T14:07:55.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/5069",
+          "content": "[프로젝트03] 데이터 파악",
+          "due_date": "2024-01-21T23:00:00.000000Z",
+          "last_due_date": "2024-01-20T23:00:00.000000Z",
+          "note_count": 0
+        },
+        "extra_data_id": 22786257649,
+        "id": 22699962193,
+        "initiator_id": null,
+        "object_id": "7592652238",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      }
+    ]
+  },
+  "fileMetadata": {
+    "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md": {
+      "todoistTasks": [
+        "7592634529",
+        "7592634792",
+        "7592635191",
+        "7592652990"
+      ],
+      "todoistCount": 4
+    },
+    "🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md": {
+      "todoistTasks": [
+        "7592652075",
+        "7592652238",
+        "7592652470",
+        "7592653222"
+      ],
+      "todoistCount": 4
+    },
+    "🤩 TODO NOTE.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md": {
+      "todoistTasks": [
+        "7592607280",
+        "7592607721",
+        "7592608243",
+        "7592608560",
+        "7592608857"
+      ],
+      "todoistCount": 5
+    }
+  },
+  "enableFullVaultSync": false,
+  "statistics": {},
+  "debugMode": false,
+  "todoistAPIToken": "bb01235760f151369c530aa626cba056e0a144aa"
+}
