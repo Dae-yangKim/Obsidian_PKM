@@ -1,6 +1,6 @@
 
 ---
-- author : Dae-yangKim
+- author : Daeyang-Kim
 - created : 2024-01-25 16:31
 - last_updated : 2024-01-25 16:31
 - tags : #Permanent #DataScience #BigData

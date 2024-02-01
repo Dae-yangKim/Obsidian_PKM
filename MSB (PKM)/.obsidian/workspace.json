@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💎 Permanent Note/데이터 사이언스란.md",
+                "file": "💎 Permanent Note/데이터 사이언티스트란.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💎 Permanent Note/데이터 사이언스란.md"
+                "file": "💎 Permanent Note/데이터 사이언티스트란.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💎 Permanent Note/데이터 사이언스란.md",
+                "file": "💎 Permanent Note/데이터 사이언티스트란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💎 Permanent Note/데이터 사이언스란.md",
+                "file": "💎 Permanent Note/데이터 사이언티스트란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,17 +184,25 @@
   },
   "active": "f22b92f279bcfac4",
   "lastOpenFiles": [
-    "💎 Permanent Note/데이터 사이언티스트란.md",
-    "💎 Permanent Note/데이터 마이닝이란.md",
-    "💎 Permanent Note/데이터 사이언스란.md",
     "💎 Permanent Note/DIWK 피라미드.md",
-    "⚙️ Literature Note/데이터 사이언티스트란.md",
-    "⚙️ Literature Note/데이터 마이닝이란.md",
-    "💎 Permanent Note/무제 폴더",
+    "💎 Permanent Note/데이터 사이언스란.md",
+    "💎 Permanent Note/데이터 마이닝이란.md",
     "⚙️ Literature Note/DIWK 피라미드.md",
-    "png/데이터 사이언스와 데이터 마이닝.png",
-    "⚙️ Literature Note/데이터 사이언스란.md",
+    "⚙️ Literature Note/수치형 데이터 (Numerical Data).md",
+    "⚙️ Literature Note/연속형 데이터 (Continuous Data).md",
+    "⚙️ Literature Note/이산형 데이터 (Discrete Data).md",
+    "⚙️ Literature Note/순서형 데이터 (Ordinal Data).md",
+    "⚙️ Literature Note/명목형 데이터 (Nominal Data).md",
+    "⚙️ Literature Note/범주형 데이터 (Categorical Data).md",
+    "⚙️ Literature Note/데이터란.md",
     "무제 파일.md",
+    "⚙️ Literature Note/데이터 마이닝이란.md",
+    "⚙️ Literature Note/데이터 사이언티스트란.md",
+    "💎 Permanent Note/데이터 사이언티스트란.md",
+    "⚙️ Literature Note/데이터 사이언스란.md",
+    "2024-01-31.md",
+    "💎 Permanent Note/무제 폴더",
+    "png/데이터 사이언스와 데이터 마이닝.png",
     "Template/Permanent Template.md",
     "Template/Literature Template.md",
     "Template/무제 폴더",
@@ -211,19 +219,11 @@
     "💾　Resource/Knowledge/< Dacon > 고객 대출등급 분류 해커톤 도메인 지식 정리.md",
     "💾　Resource/Data Science Note/< Dacon > 고객 대출등급 분류  해커톤 - 01.md",
     "Template/Project Template.md",
-    "Template/Daily Template.md",
     "🎨　Area/Blog",
-    "Template/Data Science Note Template.md",
-    "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md",
-    "🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md",
-    "🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md",
-    "🎨　Area/NuNa.md",
-    "금융 관련 지식 정리.md",
     "💾　Resource/Knowledge",
     "💾　Resource/Data Science Note",
     "🤩　TODO NOTE/무제 폴더",
     "무제 파일 1.canvas",
-    "🤩　TODO NOTE/2024-01-14.md",
     "무제 파일.canvas"
   ]
 }
