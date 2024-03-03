@@ -20,20 +20,6 @@
         "viewStyle": "list"
       },
       {
-        "id": "2326784305",
-        "parentId": null,
-        "order": 2,
-        "color": "charcoal",
-        "name": "[프로젝트02] 고객 대출등급 분류 해커톤",
-        "commentCount": 0,
-        "isShared": false,
-        "isFavorite": false,
-        "isInboxProject": false,
-        "isTeamInbox": false,
-        "url": "https://todoist.com/showProject?id=2326784305",
-        "viewStyle": "list"
-      },
-      {
         "id": "2326784319",
         "parentId": null,
         "order": 3,
@@ -46,55 +32,37 @@
         "isTeamInbox": false,
         "url": "https://todoist.com/showProject?id=2326784319",
         "viewStyle": "list"
+      },
+      {
+        "id": "2328191189",
+        "parentId": null,
+        "order": 4,
+        "color": "charcoal",
+        "name": "ADsP",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2328191189",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2328191202",
+        "parentId": null,
+        "order": 5,
+        "color": "charcoal",
+        "name": "비즈니스 인텔리젠스를 위한 데이터 마이닝 with Python",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2328191202",
+        "viewStyle": "list"
       }
     ],
     "tasks": [
-      {
-        "id": "7592652990",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2326784305",
-        "sectionId": null,
-        "parentId": null,
-        "order": 4,
-        "content": "[프로젝트02] 도메인 지식 정리",
-        "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "42013974",
-        "createdAt": "2024-01-14T07:23:15.303847Z",
-        "due": null,
-        "url": "https://todoist.com/showTask?id=7592652990",
-        "duration": null,
-        "path": "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md"
-      },
-      {
-        "id": "7592653222",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2326784319",
-        "sectionId": null,
-        "parentId": null,
-        "order": 4,
-        "content": "[프로젝트03] 도메인 지식 정리",
-        "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "42013974",
-        "createdAt": "2024-01-14T07:23:28.255849Z",
-        "due": null,
-        "url": "https://todoist.com/showTask?id=7592653222",
-        "duration": null,
-        "path": "🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md"
-      },
       {
         "id": "7592608243",
         "assignerId": null,
@@ -211,75 +179,6 @@
         "path": "🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md"
       },
       {
-        "id": "7592634529",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2326784305",
-        "sectionId": null,
-        "parentId": null,
-        "order": 1,
-        "content": "[프로젝트02] 프로젝트 일정 관리하기   ✅ 2024-01-19",
-        "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
-        "isCompleted": true,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "42013974",
-        "createdAt": "2024-01-14T07:06:19.069479Z",
-        "due": null,
-        "url": "https://todoist.com/showTask?id=7592634529",
-        "duration": null,
-        "path": "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md"
-      },
-      {
-        "id": "7592635191",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2326784305",
-        "sectionId": null,
-        "parentId": null,
-        "order": 3,
-        "content": "[프로젝트02] Excel 정리   ✅ 2024-01-21",
-        "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
-        "isCompleted": true,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "42013974",
-        "createdAt": "2024-01-14T07:07:04.075364Z",
-        "due": null,
-        "url": "https://todoist.com/showTask?id=7592635191",
-        "duration": null,
-        "path": "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md"
-      },
-      {
-        "id": "7592634792",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2326784305",
-        "sectionId": null,
-        "parentId": null,
-        "order": 6,
-        "content": "[프로젝트02] 데이터 파악   ✅ 2024-01-21",
-        "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
-        "isCompleted": true,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "42013974",
-        "createdAt": "2024-01-14T07:06:39.855181Z",
-        "due": null,
-        "url": "https://todoist.com/showTask?id=7592634792",
-        "duration": null,
-        "path": "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md"
-      },
-      {
         "id": "7592652075",
         "assignerId": null,
         "assigneeId": null,
@@ -288,7 +187,7 @@
         "parentId": null,
         "order": 1,
         "content": "[프로젝트03] 프로젝트 일정 관리하기   ✅ 2024-01-21",
-        "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+        "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
         "isCompleted": true,
         "labels": [
           "todoist"
@@ -303,6 +202,29 @@
         "path": "🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md"
       },
       {
+        "id": "7592653222",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326784319",
+        "sectionId": null,
+        "parentId": null,
+        "order": 4,
+        "content": "[프로젝트03] 도메인 지식 정리",
+        "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T07:23:28.255849Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7592653222",
+        "duration": null,
+        "path": "🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md"
+      },
+      {
         "id": "7592652238",
         "assignerId": null,
         "assigneeId": null,
@@ -311,7 +233,7 @@
         "parentId": null,
         "order": 2,
         "content": "[프로젝트03] 데이터 파악",
-        "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+        "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
         "isCompleted": false,
         "labels": [
           "todoist"
@@ -341,7 +263,7 @@
         "parentId": null,
         "order": 3,
         "content": "[프로젝트03] Excel 정리",
-        "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+        "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
         "isCompleted": false,
         "labels": [
           "todoist"
@@ -363,36 +285,6 @@
         "path": "🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md"
       },
       {
-        "id": "7615917335",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2326784305",
-        "sectionId": null,
-        "parentId": null,
-        "order": 8,
-        "content": "[프로젝트02] EDA",
-        "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "42013974",
-        "createdAt": "2024-01-20T23:11:11.964348Z",
-        "due": {
-          "date": "2024-01-23",
-          "timezone": "Asia/Seoul",
-          "string": "08시00분 1월24일",
-          "lang": "ko",
-          "isRecurring": false,
-          "datetime": "2024-01-23T23:00:00Z"
-        },
-        "url": "https://todoist.com/showTask?id=7615917335",
-        "duration": null,
-        "path": "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md"
-      },
-      {
         "id": "7615911279",
         "assignerId": null,
         "assigneeId": null,
@@ -401,7 +293,7 @@
         "parentId": null,
         "order": 7,
         "content": "[프로젝트02] Baseline Model 제작    ✅ 2024-01-22",
-        "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+        "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
         "isCompleted": true,
         "labels": [
           "todoist"
@@ -420,7 +312,30 @@
         },
         "url": "https://todoist.com/showTask?id=7615911279",
         "duration": null,
-        "path": "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md"
+        "path": "🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md"
+      },
+      {
+        "id": "7620709127",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2302964268",
+        "sectionId": null,
+        "parentId": null,
+        "order": 1,
+        "content": "[프로젝트02] 이상치의 비율 확인",
+        "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-22T14:43:09.555928Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7620709127",
+        "duration": null,
+        "path": "🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md"
       },
       {
         "id": "7614367304",
@@ -431,7 +346,7 @@
         "parentId": null,
         "order": 5,
         "content": "[프로젝트02] 처리 프로세스 설정 (변할 수 있음)    ✅ 2024-01-22",
-        "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+        "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
         "isCompleted": true,
         "labels": [
           "todoist"
@@ -450,53 +365,7 @@
         },
         "url": "https://todoist.com/showTask?id=7614367304",
         "duration": null,
-        "path": "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md"
-      },
-      {
-        "id": "7620709127",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2302964268",
-        "sectionId": null,
-        "parentId": null,
-        "order": 1,
-        "content": "[프로젝트02] 이상치의 비율 확인",
-        "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
-        "isCompleted": true,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "42013974",
-        "createdAt": "2024-01-22T14:43:09.555928Z",
-        "due": null,
-        "url": "https://todoist.com/showTask?id=7620709127",
-        "duration": null,
-        "path": "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md"
-      },
-      {
-        "id": "7620712206",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2302964268",
-        "sectionId": null,
-        "parentId": null,
-        "order": 2,
-        "content": "[프로젝트02] 불균형 처리 실험",
-        "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "42013974",
-        "createdAt": "2024-01-22T14:43:54.972487Z",
-        "due": null,
-        "url": "https://todoist.com/showTask?id=7620712206",
-        "duration": null,
-        "path": "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md"
+        "path": "🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md"
       },
       {
         "id": "7637021252",
@@ -507,8 +376,8 @@
         "parentId": null,
         "order": 3,
         "content": "[프로젝트02] 이상치 데이터 분석",
-        "description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
-        "isCompleted": false,
+        "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+        "isCompleted": true,
         "labels": [
           "todoist"
         ],
@@ -519,7 +388,221 @@
         "due": null,
         "url": "https://todoist.com/showTask?id=7637021252",
         "duration": null,
-        "path": "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md"
+        "path": "🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md"
+      },
+      {
+        "id": "7592635191",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326784305",
+        "sectionId": null,
+        "parentId": null,
+        "order": 3,
+        "content": "[프로젝트02] Excel 정리   ✅ 2024-01-21",
+        "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T07:07:04.075364Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7592635191",
+        "duration": null,
+        "path": "🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md"
+      },
+      {
+        "id": "7592634792",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326784305",
+        "sectionId": null,
+        "parentId": null,
+        "order": 6,
+        "content": "[프로젝트02] 데이터 파악   ✅ 2024-01-21",
+        "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T07:06:39.855181Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7592634792",
+        "duration": null,
+        "path": "🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md"
+      },
+      {
+        "id": "7620712206",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2302964268",
+        "sectionId": null,
+        "parentId": null,
+        "order": 2,
+        "content": "[프로젝트02] 불균형 처리 실험",
+        "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-22T14:43:54.972487Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7620712206",
+        "duration": null,
+        "path": "🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md"
+      },
+      {
+        "id": "7615917335",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326784305",
+        "sectionId": null,
+        "parentId": null,
+        "order": 8,
+        "content": "[프로젝트02] EDA",
+        "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-20T23:11:11.964348Z",
+        "due": {
+          "date": "2024-01-23",
+          "timezone": "Asia/Seoul",
+          "string": "08시00분 1월24일",
+          "lang": "ko",
+          "isRecurring": false,
+          "datetime": "2024-01-23T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7615917335",
+        "duration": null,
+        "path": "🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md"
+      },
+      {
+        "id": "7592634529",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326784305",
+        "sectionId": null,
+        "parentId": null,
+        "order": 1,
+        "content": "[프로젝트02] 프로젝트 일정 관리하기   ✅ 2024-01-19",
+        "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T07:06:19.069479Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7592634529",
+        "duration": null,
+        "path": "🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md"
+      },
+      {
+        "id": "7592652990",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2326784305",
+        "sectionId": null,
+        "parentId": null,
+        "order": 4,
+        "content": "[프로젝트02] 도메인 지식 정리",
+        "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-01-14T07:23:15.303847Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7592652990",
+        "duration": null,
+        "path": "🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md"
+      },
+      {
+        "id": "7669173673",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2302964268",
+        "sectionId": null,
+        "parentId": null,
+        "order": 4,
+        "content": "ADsP 책 구입",
+        "description": "[🐳　Project/(DS) ADsP 시험.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/(DS)%20ADsP%20%EC%8B%9C%ED%97%98.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-02-06T06:31:32.573699Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7669173673",
+        "duration": null,
+        "path": "🐳　Project/(DS) ADsP 시험.md"
+      },
+      {
+        "id": "7669174071",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2302964268",
+        "sectionId": null,
+        "parentId": null,
+        "order": 5,
+        "content": "공부 일정 세우기",
+        "description": "[🐳　Project/(DS) ADsP 시험.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/(DS)%20ADsP%20%EC%8B%9C%ED%97%98.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-02-06T06:31:47.148668Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7669174071",
+        "duration": null,
+        "path": "🐳　Project/(DS) ADsP 시험.md"
+      },
+      {
+        "id": "7669183640",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2302964268",
+        "sectionId": null,
+        "parentId": null,
+        "order": 6,
+        "content": "일정 정하기   📅",
+        "description": "[🐳　Project/(DS) 데이터 마이닝 공부.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/(DS)%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%88%EC%9D%B4%EB%8B%9D%20%EA%B3%B5%EB%B6%80.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "42013974",
+        "createdAt": "2024-02-06T06:35:58.798365Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7669183640",
+        "duration": null,
+        "path": "🐳　Project/(DS) 데이터 마이닝 공부.md"
       }
     ],
     "events": [
@@ -2154,11 +2237,724 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-02-04T23:12:24.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] 데이터 파악",
+          "description": "[🎲　Archive/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "last_description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22951898677,
+        "id": 22865601759,
+        "initiator_id": null,
+        "object_id": "7592652238",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-02-04T23:12:21.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] 프로젝트 일정 관리하기   ✅ 2024-01-21",
+          "description": "[🎲　Archive/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "last_description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22951898427,
+        "id": 22865601505,
+        "initiator_id": null,
+        "object_id": "7592652075",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-02-04T23:12:18.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] 도메인 지식 정리",
+          "description": "[🎲　Archive/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "last_description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22951898007,
+        "id": 22865601086,
+        "initiator_id": null,
+        "object_id": "7592653222",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-02-04T23:12:18.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] Excel 정리",
+          "description": "[🎲　Archive/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "last_description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22951897973,
+        "id": 22865601053,
+        "initiator_id": null,
+        "object_id": "7592652470",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-02-06T06:18:27.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 프로젝트 일정 관리하기   ✅ 2024-01-19",
+          "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908725,
+        "id": 22882611666,
+        "initiator_id": null,
+        "object_id": "7592634529",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-02-06T06:18:27.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] EDA",
+          "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908723,
+        "id": 22882611664,
+        "initiator_id": null,
+        "object_id": "7615917335",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-02-06T06:18:27.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 불균형 처리 실험",
+          "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908699,
+        "id": 22882611640,
+        "initiator_id": null,
+        "object_id": "7620712206",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-02-06T06:18:27.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] Excel 정리   ✅ 2024-01-21",
+          "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908692,
+        "id": 22882611633,
+        "initiator_id": null,
+        "object_id": "7592635191",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-02-06T06:18:27.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 데이터 파악   ✅ 2024-01-21",
+          "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908689,
+        "id": 22882611630,
+        "initiator_id": null,
+        "object_id": "7592634792",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-02-06T06:18:27.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 도메인 지식 정리",
+          "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908685,
+        "id": 22882611625,
+        "initiator_id": null,
+        "object_id": "7592652990",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-02-06T06:18:27.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 이상치 데이터 분석",
+          "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908683,
+        "id": 22882611624,
+        "initiator_id": null,
+        "object_id": "7637021252",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-02-06T06:18:27.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] Baseline Model 제작    ✅ 2024-01-22",
+          "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908681,
+        "id": 22882611622,
+        "initiator_id": null,
+        "object_id": "7615911279",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-02-06T06:18:27.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 이상치의 비율 확인",
+          "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908678,
+        "id": 22882611620,
+        "initiator_id": null,
+        "object_id": "7620709127",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-02-06T06:18:27.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 처리 프로세스 설정 (변할 수 있음)    ✅ 2024-01-22",
+          "description": "[🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908677,
+        "id": 22882611618,
+        "initiator_id": null,
+        "object_id": "7614367304",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-02-06T06:18:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 이상치 데이터 분석",
+          "description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908470,
+        "id": 22882611412,
+        "initiator_id": null,
+        "object_id": "7637021252",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-02-06T06:18:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] Baseline Model 제작    ✅ 2024-01-22",
+          "description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908448,
+        "id": 22882611389,
+        "initiator_id": null,
+        "object_id": "7615911279",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-02-06T06:18:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] EDA",
+          "description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908446,
+        "id": 22882611387,
+        "initiator_id": null,
+        "object_id": "7615917335",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-02-06T06:18:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] Excel 정리   ✅ 2024-01-21",
+          "description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908445,
+        "id": 22882611386,
+        "initiator_id": null,
+        "object_id": "7592635191",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-02-06T06:18:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 도메인 지식 정리",
+          "description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908423,
+        "id": 22882611365,
+        "initiator_id": null,
+        "object_id": "7592652990",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-02-06T06:18:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 프로젝트 일정 관리하기   ✅ 2024-01-19",
+          "description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908420,
+        "id": 22882611361,
+        "initiator_id": null,
+        "object_id": "7592634529",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-02-06T06:18:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 데이터 파악   ✅ 2024-01-21",
+          "description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(My%20Second%20Brain)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908413,
+        "id": 22882611355,
+        "initiator_id": null,
+        "object_id": "7592634792",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-02-06T06:18:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 처리 프로세스 설정 (변할 수 있음)    ✅ 2024-01-22",
+          "description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908408,
+        "id": 22882611345,
+        "initiator_id": null,
+        "object_id": "7614367304",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784305"
+      },
+      {
+        "event_date": "2024-02-06T06:18:24.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 불균형 처리 실험",
+          "description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908388,
+        "id": 22882611329,
+        "initiator_id": null,
+        "object_id": "7620712206",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-02-06T06:18:24.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트02] 이상치의 비율 확인",
+          "description": "[< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "last_description": "[🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Dacon%20%3E%20%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98%20%ED%95%B4%EC%BB%A4%ED%86%A4.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968908384,
+        "id": 22882611325,
+        "initiator_id": null,
+        "object_id": "7620709127",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-02-06T06:18:14.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] 도메인 지식 정리",
+          "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "last_description": "[< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968906928,
+        "id": 22882609869,
+        "initiator_id": null,
+        "object_id": "7592653222",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-02-06T06:18:14.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] Excel 정리",
+          "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "last_description": "[< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968906923,
+        "id": 22882609862,
+        "initiator_id": null,
+        "object_id": "7592652470",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-02-06T06:18:13.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] 데이터 파악",
+          "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "last_description": "[< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968906914,
+        "id": 22882609856,
+        "initiator_id": null,
+        "object_id": "7592652238",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-02-06T06:18:13.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] 프로젝트 일정 관리하기   ✅ 2024-01-21",
+          "description": "[🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%90%B3%E3%80%80Project/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "last_description": "[< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968906892,
+        "id": 22882609836,
+        "initiator_id": null,
+        "object_id": "7592652075",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-02-06T06:18:11.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] Excel 정리",
+          "description": "[< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "last_description": "[🎲　Archive/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968906627,
+        "id": 22882609568,
+        "initiator_id": null,
+        "object_id": "7592652470",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-02-06T06:18:11.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] 데이터 파악",
+          "description": "[< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "last_description": "[🎲　Archive/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968906622,
+        "id": 22882609561,
+        "initiator_id": null,
+        "object_id": "7592652238",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-02-06T06:18:11.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] 프로젝트 일정 관리하기   ✅ 2024-01-21",
+          "description": "[< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "last_description": "[🎲　Archive/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968906573,
+        "id": 22882609513,
+        "initiator_id": null,
+        "object_id": "7592652075",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-02-06T06:18:10.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "[프로젝트03] 도메인 지식 정리",
+          "description": "[< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "last_description": "[🎲　Archive/< Signate > 제2회 금융 데이터 활용 챌린지.md](obsidian://open?vault=MSB%20(PARA)&file=%F0%9F%8E%B2%E3%80%80Archive/%3C%20Signate%20%3E%20%EC%A0%9C2%ED%9A%8C%20%EA%B8%88%EC%9C%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B1%8C%EB%A6%B0%EC%A7%80.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22968906523,
+        "id": 22882609465,
+        "initiator_id": null,
+        "object_id": "7592653222",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2326784319"
+      },
+      {
+        "event_date": "2024-02-06T06:37:02.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/5190",
+          "content": "[프로젝트02] 불균형 처리 실험",
+          "note_count": 0
+        },
+        "extra_data_id": 22969033413,
+        "id": 22882736354,
+        "initiator_id": null,
+        "object_id": "7620712206",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-02-06T06:37:01.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/5190",
+          "content": "[프로젝트02] 이상치 데이터 분석",
+          "note_count": 0
+        },
+        "extra_data_id": 22969033276,
+        "id": 22882736216,
+        "initiator_id": null,
+        "object_id": "7637021252",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-02-06T06:36:12.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "일정 정하기",
+          "last_content": "일정 정하기   📅",
+          "note_count": 0
+        },
+        "extra_data_id": 22969027530,
+        "id": 22882730469,
+        "initiator_id": null,
+        "object_id": "7669183640",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-02-06T06:36:08.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "일정 정하기   📅",
+          "last_content": "일정 정하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22969027060,
+        "id": 22882729998,
+        "initiator_id": null,
+        "object_id": "7669183640",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2302964268"
+      },
+      {
+        "event_date": "2024-02-06T06:37:26.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/5190",
+          "name": "ADsP",
+          "note_count": 0
+        },
+        "extra_data_id": 22969036319,
+        "id": 22882739256,
+        "initiator_id": null,
+        "object_id": "2328191189",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-02-06T06:37:13.000000Z",
+        "event_type": "deleted",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/5190",
+          "name": "",
+          "note_count": 0
+        },
+        "extra_data_id": 22969034751,
+        "id": 22882737690,
+        "initiator_id": null,
+        "object_id": "2326784305",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-02-06T06:37:43.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/5190",
+          "name": "비즈니스 인텔리젠스를 위한 데이터 마이닝 with Python",
+          "note_count": 0
+        },
+        "extra_data_id": 22969038409,
+        "id": 22882741355,
+        "initiator_id": null,
+        "object_id": "2328191202",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
       }
     ]
   },
   "fileMetadata": {
-    "🐳　Project/< Dacon > 고객 대출등급 분류 해커톤.md": {
+    "🤩 TODO NOTE.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md": {
+      "todoistTasks": [
+        "7592607280",
+        "7592607721",
+        "7592608243",
+        "7592608560",
+        "7592608857"
+      ],
+      "todoistCount": 5
+    },
+    "🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md": {
+      "todoistTasks": [
+        "7592652075",
+        "7592652238",
+        "7592652470",
+        "7592653222"
+      ],
+      "todoistCount": 4
+    },
+    "🎲　Archive/< Dacon > 고객 대출등급 분류 해커톤.md": {
       "todoistTasks": [
         "7592634529",
         "7592634792",
@@ -2173,28 +2969,18 @@
       ],
       "todoistCount": 10
     },
-    "🐳　Project/< Signate > 제2회 금융 데이터 활용 챌린지.md": {
+    "🐳　Project/(DS) ADsP 시험.md": {
       "todoistTasks": [
-        "7592652075",
-        "7592652238",
-        "7592652470",
-        "7592653222"
+        "7669173673",
+        "7669174071"
       ],
-      "todoistCount": 4
+      "todoistCount": 2
     },
-    "🤩 TODO NOTE.md": {
-      "todoistTasks": [],
-      "todoistCount": 0
-    },
-    "🎲　Archive/< 공모전 > 미래사회 빅데이터 분석.md": {
+    "🐳　Project/(DS) 데이터 마이닝 공부.md": {
       "todoistTasks": [
-        "7592607280",
-        "7592607721",
-        "7592608243",
-        "7592608560",
-        "7592608857"
+        "7669183640"
       ],
-      "todoistCount": 5
+      "todoistCount": 1
     }
   },
   "enableFullVaultSync": false,

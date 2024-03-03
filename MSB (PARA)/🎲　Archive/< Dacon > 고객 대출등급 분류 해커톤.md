@@ -40,8 +40,8 @@
 - [x] [프로젝트02] Baseline Model 제작 [link](https://todoist.com/showTask?id=7615911279) 📅 2024-01-22 #todoist %%[todoist_id:: 7615911279]%% ✅ 2024-01-22
 - [ ] [프로젝트02] EDA [link](https://todoist.com/showTask?id=7615917335) 📅 2024-01-24 #todoist %%[todoist_id:: 7615917335]%% 
 - [x] [프로젝트02] 이상치의 비율 확인 [link](https://todoist.com/showTask?id=7620709127) #todoist %%[todoist_id:: 7620709127]%% 
-- [ ] [프로젝트02] 불균형 처리 실험 [link](https://todoist.com/showTask?id=7620712206) #todoist %%[todoist_id:: 7620712206]%% 
-- [ ] [프로젝트02] 이상치 데이터 분석 [link](https://todoist.com/showTask?id=7637021252) #todoist %%[todoist_id:: 7637021252]%% 
+- [x] [프로젝트02] 불균형 처리 실험 [link](https://todoist.com/showTask?id=7620712206) #todoist %%[todoist_id:: 7620712206]%% 
+- [x] [프로젝트02] 이상치 데이터 분석 [link](https://todoist.com/showTask?id=7637021252) #todoist %%[todoist_id:: 7637021252]%% 
 - [ ] 
 ---
 ### Related Resource

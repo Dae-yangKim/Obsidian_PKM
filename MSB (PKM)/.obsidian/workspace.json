@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1fe7912fb2f902fc",
+        "id": "65c23829f5336be8",
         "type": "tabs",
         "children": [
           {
-            "id": "20d89706ddcf05f8",
+            "id": "8d6f221fdf4ae4b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💎 Permanent Note/수치형 데이터 (Numerical Data).md",
+                "file": "⚙️ Literature Note/금융 데이터란 - not completed.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💎 Permanent Note/수치형 데이터 (Numerical Data).md"
+                "file": "⚙️ Literature Note/금융 데이터란 - not completed.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💎 Permanent Note/수치형 데이터 (Numerical Data).md",
+                "file": "⚙️ Literature Note/금융 데이터란 - not completed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💎 Permanent Note/수치형 데이터 (Numerical Data).md",
+                "file": "⚙️ Literature Note/금융 데이터란 - not completed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,54 +166,59 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "graph:그래프 뷰 열기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-custom-frames:Open Google Calendar": false,
       "obsidian-custom-frames:Open Todoist": false,
       "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "20d89706ddcf05f8",
+  "active": "8d6f221fdf4ae4b1",
   "lastOpenFiles": [
-    "💎 Permanent Note/범주형 데이터 (Categorical Data).md",
-    "💎 Permanent Note/수치형 데이터 (Numerical Data).md",
-    "💎 Permanent Note/순서형 데이터 (Ordinal Data).md",
-    "💎 Permanent Note/이산형 데이터 (Discrete Data).md",
-    "💎 Permanent Note/데이터란.md",
-    "💎 Permanent Note/데이터 사이언티스트란.md",
+    "⚙️ Literature Note/타임 블록 시간 관리법 - not P.md",
     "💎 Permanent Note/명목형 데이터 (Nominal Data).md",
-    "⚙️ Literature Note/명목형 데이터 (Nominal Data).md",
-    "💎 Permanent Note/연속형 데이터 (Continuous Data).md",
-    "⚙️ Literature Note/순서형 데이터 (Ordinal Data).md",
-    "⚙️ Literature Note/연속형 데이터 (Continuous Data).md",
-    "⚙️ Literature Note/이산형 데이터 (Discrete Data).md",
-    "⚙️ Literature Note/범주형 데이터 (Categorical Data).md",
-    "💎 Permanent Note/DIWK 피라미드.md",
-    "⚙️ Literature Note/수치형 데이터 (Numerical Data).md",
-    "⚙️ Literature Note/데이터란.md",
-    "Template/Permanent Template.md",
-    "Template/Literature Template.md",
-    "💎 Permanent Note/데이터 사이언스란.md",
-    "💎 Permanent Note/데이터 마이닝이란.md",
-    "⚙️ Literature Note/DIWK 피라미드.md",
-    "⚙️ Literature Note/데이터 마이닝이란.md",
+    "⚙️ Literature Note/투 포인터 알고리즘 - not P.md",
+    "⚙️ Literature Note/금융 데이터란 - not completed.md",
+    "⚙️ Literature Note/pkl 파일이란.md",
+    "💎 Permanent Note/pkl 파일이란.md",
+    "⚙️ Literature Note/데이터 마이닝과 기계학습 (ML) 의 차이.md",
+    "⚙️ Literature Note/데이터 분석 방법론.md",
+    "⚙️ Literature Note/데이터 분석과 데이터 사이언스의 차이.md",
+    "⚙️ Literature Note/KDD (Knowledge Discovery in DataBase).md",
+    "⚙️ Literature Note/SEMMA (Sampling Exploration Modification Modeling Assessment).md",
+    "⚙️ Literature Note/CRISP-DM (Cross-Industry Standard Process for Data Mining).md",
+    "💎 Permanent Note/데이터 분석과 데이터 사이언스의 차이.md",
+    "💎 Permanent Note/데이터 마이닝과 기계학습 (ML) 의 차이.md",
     "⚙️ Literature Note/데이터 사이언티스트란.md",
+    "💎 Permanent Note/데이터 사이언스란.md",
+    "💎 Permanent Note/데이터 분석 방법론.md",
+    "⚙️ Literature Note/데이터란.md",
+    "💎 Permanent Note/범주형 데이터 (Categorical Data).md",
+    "💎 Permanent Note/연속형 데이터 (Continuous Data).md",
+    "💎 Permanent Note/이산형 데이터 (Discrete Data).md",
+    "💎 Permanent Note/KDD (Knowledge Discovery in DataBase).md",
+    "💎 Permanent Note/SEMMA (Sampling Exploration Modification Modeling Assessment).md",
+    "💎 Permanent Note/CRISP-DM (Cross-Industry Standard Process for Data Mining).md",
     "⚙️ Literature Note/데이터 사이언스란.md",
-    "2024-01-31.md",
+    "png/DIKW Pyramid.jpeg",
+    "png/KDD.webp",
+    "💎 Permanent Note/순서형 데이터 (Ordinal Data).md",
+    "png/SEMMA.jpg",
+    "💎 Permanent Note/Untitled",
+    "png/crisp-dm.png",
+    "⚙️ Literature Note/Untitled",
     "💎 Permanent Note/무제 폴더",
     "png/데이터 사이언스와 데이터 마이닝.png",
     "Template/무제 폴더",
-    "메모의 종류 (*중요*).md",
-    "png/DIKW Pyramid.jpeg",
     "png/데이터 사이언스 밴 다이어그램.png",
     "png",
     "Template",
@@ -221,8 +226,6 @@
     "⚙️ Literature Note",
     "🎨　Area/Blog",
     "💾　Resource/Knowledge",
-    "💾　Resource/Data Science Note",
-    "🤩　TODO NOTE/무제 폴더",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
   ]

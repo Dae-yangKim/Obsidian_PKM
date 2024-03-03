@@ -6,11 +6,11 @@
 - tags : #Literature #DataScience #BigData
 ---
 
-# DIWK 피라미드
+# DIKW 피라미드
 
 ## *주제*
 
-DIWK 피라미드에 대해서 조금 더 잘 알아야 할 것 같다
+DIKW 피라미드에 대해서 조금 더 잘 알아야 할 것 같다
 
 ## *정리*
 
